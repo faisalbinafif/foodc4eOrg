@@ -124,7 +124,7 @@ p {
   padding: 0.625rem 1.875rem;
   line-height: 1.5625rem;
   background-color: var(--primary-color);
-  border: 0.1875rem solid var(--primary-color);
+  border: 0.125rem solid var(--primary-color);
   color: var(--white-color);
   font-size: 0.9375rem;
   font-weight: 600;
@@ -140,7 +140,7 @@ p {
   padding: 0.625rem 1.875rem;
   line-height: 25px;
   background-color: var(--white-color);
-  border: 0.1875rem solid var(--white-color);
+  border: 0.125rem solid var(--white-color);
   color: var(--text-color);
   font-size: 0.9375rem;
   font-weight: 600;
